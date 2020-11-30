@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaquinGame</string>
+    <string name="question_boardsize_game">Which size do you want for your playboard ?</string>
+    <string name="lets_go">Let\'s go !</string>
+    <string name="you_won">You won this game !</string>
+    <string name="start_another">Start another ?</string>
+    <string name="restart">Restart</string>
+    <string name="change_size">Change grid size</string>
+</resources>
